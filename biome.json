@@ -19,6 +19,9 @@
 				"noUnusedVariables": "error",
 				"noUnusedImports": "error"
 			},
+			"nursery": {
+				"useSortedClasses": "error"
+			},
 			"suspicious": {
 				"noConsoleLog": "error"
 			}
